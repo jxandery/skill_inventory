@@ -12,4 +12,7 @@ skills:
 - id: 2
   title: whew!
   description: it works!
-total: 2
+- id: 3
+  title: crud complete
+  description: on to feature test
+total: 3
