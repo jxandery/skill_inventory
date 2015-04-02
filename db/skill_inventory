@@ -1,8 +1,5 @@
 ---
 skills:
-- id: 5
-  title: who
-  description: knows
 - id: 6
   title: more new skills
   description: what?
@@ -12,4 +9,7 @@ skills:
 - id: 1
   title: come on!
   description: let's roll a 7!
-total: 1
+- id: 2
+  title: whew!
+  description: it works!
+total: 2
